@@ -16,8 +16,8 @@
 
 
 -- Dumping database structure for 2acore_world
-CREATE DATABASE IF NOT EXISTS `2acore_world` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
-USE `2acore_world`;
+CREATE DATABASE IF NOT EXISTS `acore_world` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `acore_world`;
 
 -- Dumping structure for table 2acore_world.custom_xp
 CREATE TABLE IF NOT EXISTS `custom_xp` (
